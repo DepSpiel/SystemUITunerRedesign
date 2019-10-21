@@ -1,3 +1,8 @@
+https://jitpack.io/#DepSpiel/SystemUITunerRedesign/Tag
+
+
+[![](https://jitpack.io/v/DepSpiel/SystemUITunerRedesign.svg)](https://jitpack.io/#DepSpiel/SystemUITunerRedesign)
+
 # SystemUI Tuner
 Replacement/extension for the stock Android System UI Tuner.
 
